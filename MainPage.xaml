@@ -11,7 +11,7 @@
 
             <Image
                 Source="shop_list.png"
-                SemanticProperties.Description="Shopping List"
+                SemanticProperties.Description="Moldovan Andrei"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
@@ -22,9 +22,9 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Medii de programare"
+                Text="FSEGA"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                SemanticProperties.Description="FSEGA"
                 FontSize="18"
                 HorizontalOptions="Center" />
 

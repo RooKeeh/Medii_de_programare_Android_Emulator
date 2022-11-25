@@ -1,9 +1,10 @@
-namespace Moldovan_Andrei_Lab7;
-
-public partial class AboutPage : ContentPage
+namespace Moldovan_Andrei_Lab7
 {
-	public AboutPage()
-	{
-		InitializeComponent();
-	}
+    public partial class AboutPage : ContentPage
+    {
+        public AboutPage()
+        {
+            InitializeComponent();
+        }
+    }
 }
