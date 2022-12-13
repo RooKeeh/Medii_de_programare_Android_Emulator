@@ -40,7 +40,7 @@ public partial class ShopPage : ContentPage
                     NotifyTime = DateTime.Now.AddSeconds(1)
                 }
             };
-            LocalNotificationCenter.Current.Show(request);
+            await LocalNotificationCenter.Current.Show(request);
         }
         await Map.OpenAsync(location, options);
     }

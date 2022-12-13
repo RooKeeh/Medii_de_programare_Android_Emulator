@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
- x:Class="Nume_Pren_Lab7.ShopPage"
+ x:Class="Moldovan_Andrei_Lab7.ShopPage"
  Title="ShopPage">
     <ContentPage.Content>
         <StackLayout Margin="20">
@@ -26,7 +26,7 @@ MaximumWidthRequest="200"
  Clicked="OnSaveButtonClicked" />
                 <Button Text="Show on Map" Grid.Column="1"
 MaximumWidthRequest="200"
- Clicked="OnShowMapButtonClicked"></Button
+ Clicked="OnShowMapButtonClicked"></Button>
             </Grid>
         </StackLayout>
     </ContentPage.Content>
